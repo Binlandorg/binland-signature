@@ -1,0 +1,17 @@
+{
+  "name": "binland-signature",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "mjml signature.mjml -o signature.html",
+    "watch": "chokidar signature.mjml -c \"pnpm build\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "devDependencies": {
+    "chokidar-cli": "^3.0.0",
+    "mjml": "^4.15.3"
+  }
+}
