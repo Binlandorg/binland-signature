@@ -14,6 +14,5 @@ Signature for Binland emails, structured with MJML and responsive. 🚀
 
 ```bash
 pnpm install
-pnpm build
 pnpm watch
 ```

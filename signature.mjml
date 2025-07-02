@@ -41,14 +41,14 @@
     <mj-body>
         <mj-section>
             <mj-column width="100%">
-                <mj-image src="./src/assets/Isologo[V-Primario].png" width="64px" height="64px" css-class="logo"/>
+                <mj-image src="https://raw.githubusercontent.com/Binlandorg/binland-signature/refs/heads/main/src/assets/Isologo%5BV-Primario%5D.png" width="64px" height="64px" css-class="logo"/>
                 <mj-text css-class="name" color="#f83d48" font-size="16px"> Binland Contact </mj-text>
                 <mj-text css-class="service"> Services & IT Consultant, Binland </mj-text>
             </mj-column>
             <mj-column  css-class="social" width="33%">
                 <mj-text>
                     <div class="social-text">
-                        <img src="./src/assets/mobile.png" width="15px" height="15px"/>
+                        <img src="https://raw.githubusercontent.com/Binlandorg/binland-signature/refs/heads/main/src/assets/mobile.png" width="15px" height="15px"/>
                         <span>+51 989313055</span>
                     </div>
                 </mj-text>
@@ -56,7 +56,7 @@
             <mj-column  css-class="social" width="67%">
                 <mj-text>
                     <div class="social-text">
-                        <img src="./src/assets/phone.png" width="15px" height="15px"/>
+                        <img src="https://raw.githubusercontent.com/Binlandorg/binland-signature/refs/heads/main/src/assets/phone.png" width="15px" height="15px"/>
                         <span>(01) - 987 612 122</span>
                     </div>
                 </mj-text>
@@ -64,7 +64,7 @@
             <mj-column  css-class="social" width="33%">
                 <mj-text>
                     <div class="social-text">
-                        <img src="./src/assets/web.png" width="15px" height="15px"/>
+                        <img src="https://raw.githubusercontent.com/Binlandorg/binland-signature/refs/heads/main/src/assets/web.png" width="15px" height="15px"/>
                         <a href="https://binland.dev" target="_blank" rel="noopener noreferrer">binland.dev</a>
                     </div>
                 </mj-text>
@@ -72,7 +72,7 @@
             <mj-column  css-class="social" width="67%">
                 <mj-text>
                     <div class="social-text">
-                        <img src="./src/assets/email.png" width="15px" height="15px"/>
+                        <img src="https://raw.githubusercontent.com/Binlandorg/binland-signature/refs/heads/main/src/assets/email.png" width="15px" height="15px"/>
                         <a href="mailto:contact@binland.dev">contact@binland.dev</a>
                     </div>
                 </mj-text>
@@ -80,7 +80,7 @@
             <mj-column  css-class="social" width="33%">
                 <mj-text>
                     <div class="social-text">
-                        <img src="./src/assets/location.png" width="15px" height="15px"/>
+                        <img src="https://raw.githubusercontent.com/Binlandorg/binland-signature/refs/heads/main/src/assets/location.png" width="15px" height="15px"/>
                         <span>Perú - Arequipa</span>
                     </div>
                 </mj-text>
@@ -89,7 +89,7 @@
                 <mj-text css-class="social-text"></mj-text>
             </mj-column>
             <mj-column width="100%">
-                <mj-image src="./src/assets/banner.png" border-radius="4px"/>
+                <mj-image src="https://raw.githubusercontent.com/Binlandorg/binland-signature/refs/heads/main/src/assets/banner.png" border-radius="4px"/>
             </mj-column>
             <mj-column width="100%">
                 <mj-text font-size="12px" css-class="important">IMPORTANT: The contents of this email and any attachments are confidential. They are intended for the named recipient(s) only. If you have received this email by mistake, please notify the sender immediately and do not disclose the contents to anyone or make copies thereof.</mj-text>
